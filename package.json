@@ -4,7 +4,8 @@
   "description": "AFIP Utilities",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build" : "rm dist/node-afip.js && browserify browser.js -o dist/node-afip.js"
   },
   "repository": {
     "type": "git",
