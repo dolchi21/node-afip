@@ -1,0 +1,25 @@
+{
+  "name": "node-afip",
+  "version": "1.0.0",
+  "description": "AFIP Utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dolchi21/node-afip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dolchi21/node-afip/issues"
+  },
+  "homepage": "https://github.com/dolchi21/node-afip#readme",
+  "dependencies": {
+    "axios": "^0.12.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.1"
+  }
+}
