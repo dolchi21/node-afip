@@ -1,6 +1,6 @@
 {
   "name": "node-afip",
-  "version": "1.1.1",
+  "version": "1.0.3",
   "description": "AFIP Utilities",
   "main": "index.js",
   "scripts": {
