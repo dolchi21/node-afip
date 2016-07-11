@@ -1,11 +1,11 @@
 {
   "name": "node-afip",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "AFIP Utilities",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build" : "rm dist/node-afip.js && browserify browser.js -o dist/node-afip.js"
+    "build": "rm dist/node-afip.js && browserify browser.js -o dist/node-afip.js"
   },
   "repository": {
     "type": "git",
